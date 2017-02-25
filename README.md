@@ -1,2 +1,2 @@
-# DragonScript_New
+# DragonScript
 The new DragonScript
